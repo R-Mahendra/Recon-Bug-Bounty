@@ -1,5 +1,6 @@
-<center><h1>ZHAENX</h1></center>
-<i>author :: Zhaenx</i>
+
+<h1 align="center">Bug Bounty Hunting Methodology <i>author :: Zhaenx</i> </h1>
+
 
 ssl.cert.sucject.CN:"target.com"
 
