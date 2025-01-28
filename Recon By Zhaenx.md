@@ -1,5 +1,9 @@
 
-<h1 align="center">Bug Bounty Hunting Methodology <i>author :: Zhaenx</i> </h1>
+  <h1 align="center">Recon Bug Bounty Hunting By Zhaenx
+     </h1>
+
+<br>
+
 
 
 ssl.cert.sucject.CN:"target.com"
@@ -53,7 +57,7 @@ arjun -u https://target.com/api/v1/endpoint -oT api-parameters.txt
 cat subdomain-alive.txt | aquatone -out screenshots
 
 #WPscan
-wpscan --url https://site.paytabs.com/ --random-user-agent --api-token s0jJJWD83hn6JoismMRB3nxkjRFXf75bPtYPgX0YuUM -e -t 10 -o wp-paytab.txt
+wpscan --url https://site.target.com/ --random-user-agent --api-token TOKEN -e -t 10 -o wp-paytab.txt
 
 
 #Nmap
