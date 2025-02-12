@@ -1,8 +1,8 @@
-
-  <h1 align="center">Recon Bug Bounty Hunting By Zhaenx
-     </h1>
-
+<h1 align="center">Methode Recon Bug Bounty Hunting V1</h1>
+<h4 >Author : Zhaenx</h4>
 <br>
+
+
 
 
 
